@@ -1,0 +1,52 @@
+{
+  "streams": [
+    {
+      "title": "Pubg Stream",
+      "description": "online mobile gaming stream",
+      "id": 1
+    },
+    {
+      "title": "Pubg Stream",
+      "description": "online mobile gaming stream",
+      "id": 2
+    },
+    {
+      "title": "Movie Stream",
+      "description": "movie stream",
+      "id": 3
+    },
+    {
+      "title": "Coding Stream",
+      "description": "online coding stream",
+      "id": 4
+    },
+    {
+      "title": "Trying this out",
+      "description": "I am trying this feature out",
+      "id": 5
+    },
+    {
+      "title": "My stream",
+      "description": "this is my stream",
+      "userId": "114256378480058278151",
+      "id": 6
+    },
+    {
+      "title": "My stream for testing history object.",
+      "description": "This stream is edited",
+      "id": 8
+    },
+    {
+      "title": "hellu",
+      "description": "Completely Random Stream",
+      "userId": null,
+      "id": 9
+    },
+    {
+      "title": "Hii this is going to be my stream",
+      "description": "This is my random stream.",
+      "userId": "114256378480058278151",
+      "id": 10
+    }
+  ]
+}
